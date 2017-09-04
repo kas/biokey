@@ -1,7 +1,6 @@
-# Capital One Carbon Hackathon (2017)
+# BioKey
 
+Gesture authentication for online purchases with Myo Armband
 
-## Jestur
-### Gesture Authentication for online purchases.
-### Server hosted on [Heroku](http://warm-spire-75113.herokuapp.com/)
-### Myo wristband used for tracking.
+Won 2nd place at Capital One’s annual summer intern hackathon
+
