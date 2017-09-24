@@ -52,4 +52,3 @@ Add Heroku remote `heroku git:remote -a herokuprojectname`
 Navigate to project root and run `git subtree push --prefix server heroku master`
 
 Create the database tables with `heroku run python util/db/create.py`
-
